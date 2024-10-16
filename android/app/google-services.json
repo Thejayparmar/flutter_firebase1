@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1033621220909",
+    "firebase_url": "https://eatatcanteen1-default-rtdb.firebaseio.com",
+    "project_id": "eatatcanteen1",
+    "storage_bucket": "eatatcanteen1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033621220909:android:c601726da6205f5f5392a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB3e-xUUngdI-eR0lwnzXqs3Ymgn_6R_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
